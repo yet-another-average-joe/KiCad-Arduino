@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP YAAJ_Arduino_ProMini_NanHe_A4-A7_PRG
+D Arduino Pro Mini NanHe with all pins : A4-A7 and PRG  ; KLC compliant
+K arduino pro mini promini NanHe
+$ENDCMP
+#
+#End Doc Library
