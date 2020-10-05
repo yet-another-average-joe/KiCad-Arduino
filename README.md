@@ -8,7 +8,7 @@ You will find all combinations for symbols, footprints and 3D models : A4 to A7 
 
 Symbols : two styles ; For every configuration, one follows the KLC rules ; on the other, the pins are arranged so they show where they are on the module : this is usefull when working on a breadboard.
 
-![](https://raw.githubusercontent.com/yet-another-average-joe/KiCad-Arduino/main/Arduino_Pro_Mini_NanHe/Image/Arduino_Pro_Mini_NanHe.JPG?token=AKL7X5WL3VWX54CLMFEJNWS7POH2Q)
+![](https://github.com/yet-another-average-joe/KiCad-Arduino/blob/main/Arduino_Pro_Mini_NanHe/Images/Arduino_Pro_Mini_NanHe.JPG)
 
 Symbols
 
