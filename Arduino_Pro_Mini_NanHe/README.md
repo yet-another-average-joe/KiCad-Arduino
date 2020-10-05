@@ -1,6 +1,6 @@
 Arduino Pro Mini "NanHe" library for Kicad
 
-** Before donwloading and using these files, be sure your ProMini's are the same ! The footpeints, symbols and 3D models are for an Arduino I first got with "NanHe" on the back silkscreen. Pinouts can differ from one chinese ProMini to another.**
+**Before donwloading and using these files, be sure your ProMini's are the same ! The footpeints, symbols and 3D models are for an Arduino I first got with "NanHe" on the back silkscreen. Pinouts can differ from one chinese ProMini to another.**
 
 You will find all combinations for symbols, footprints and 3D models : A4 to A7 pins, and programming pins : broken out to the PCB or not.
 
