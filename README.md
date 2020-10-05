@@ -32,74 +32,66 @@ Footprints
 ![](https://github.com/yet-another-average-joe/KiCad-Arduino/blob/main/Arduino_Pro_Mini_NanHe/Images/YAAJ_Arduino_ProMini_NanHe_PRG_1_Footprint.png)
 ![](https://github.com/yet-another-average-joe/KiCad-Arduino/blob/main/Arduino_Pro_Mini_NanHe/Images/YAAJ_Arduino_ProMini_NanHe_PRG_2_Footprint.png)
 
-**YAAJ_Module_STM32_BlackPill_No_Headers_cp** :
+**YAAJ_Arduino_ProMini_NanHe_No_Headers**
 
 bare module, no headers
 
-**YAAJ_Module_STM32_BlackPill_PinHeaders_B_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinHeaders**
 
-pin headers, SWD header broken out on bottom
+pin headers, no headers for A4-A7 and programming pins
 
-**YAAJ_Module_STM32_BlackPill_PinHeaders_H_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinHeaders_A4_A7**
 
-pin headers, SWD port on top with horizontal pin header
+pin headers, A4-A7 broken out to PCB 
 
-**YAAJ_Module_STM32_BlackPill_PinHeaders_No_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinHeaders_A4_A7_B_PRG**
 
-pin headers, no SWD port
+pin headers, A4-A7 and programming pins broken out to PCB 
 
-**YAAJ_Module_STM32_BlackPill_PinHeaders_V_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinHeaders_A4_A7_H_PRG**
 
-pin headers, SWD port on top with vertical pin header
+pin headers, A4-A7 broken out to PCB, programming pins with horizontal pin header 
 
-**YAAJ_Module_STM32_BlackPill_PinSockets_B_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinHeaders_A4_A7_V_PRG**
 
-pin headers on pin sockets, SWD header broken out on bottom
+pin headers, A4-A7 broken out to PCB, programming pins with vertical pin header 
 
-**YAAJ_Module_STM32_BlackPill_PinSockets_H_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinHeaders_B_PRG**
 
-pin headers on pin sockets, SWD port on top with horizontal pin header
+pin headers, programming pins with vertical pin header 
 
-**YAAJ_Module_STM32_BlackPill_PinSockets_No_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinHeaders_H_PRG**
 
-pin headers on pin sockets, no SWD port
+pin headers, programming pins with horizontal pin header 
 
-**YAAJ_Module_STM32_BlackPill_PinSockets_V_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinHeaders_V_PRG**
 
-pin headers on pin sockets, SWD port on top with vertical pin header
+pin headers, programming pins with vertical pin header 
 
-**YAAJ_Module_STM32_BluePill_No_Headers_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinSockets_A4_A7**
 
-bare module, no headers
+pin headers, A4-A7 broken out to PCB 
 
-**YAAJ_Module_STM32_BluePill_PinHeaders_B_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinSockets_A4_A7_B_PRG**
 
-pin headers, SWD header broken out on bottom
+pin headers, A4-A7 and programming pins broken out to PCB 
 
-**YAAJ_Module_STM32_BluePill_PinHeaders_H_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinSockets_A4_A7_H_PRG**
 
-pin headers, SWD port on top with horizontal pin header
+pin headers, A4-A7 broken out to PCB, programming pins with horizontal pin socket 
 
-**YAAJ_Module_STM32_BluePill_PinHeaders_No_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinSockets_A4_A7_V_PRG**
 
-pin headers, no SWD port
+pin headers, A4-A7 broken out to PCB, programming pins with vertical pin socket 
 
-**YAAJ_Module_STM32_BluePill_PinHeaders_V_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinSockets_B_PRG**
 
-pin headers, SWD port on top with vertical pin header
+pin headers, programming pins with vertical pin socket 
 
-**YAAJ_Module_STM32_BluePill_PinSockets_B_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinSockets_H_PRG**
 
-pin headers on pin sockets, SWD header broken out on bottom
+pin headers, programming pins with horizontal pin socket 
 
-**YAAJ_Module_STM32_BluePill_PinSockets_H_SWD_Header_cp** :
+**YAAJ_Arduino_ProMini_NanHe_PinSockets_V_PRG**
 
-pin headers on pin sockets, SWD port on top with horizontal pin header
-
-**YAAJ_Module_STM32_BluePill_PinSockets_No_SWD_Header_cp** :
-
-pin headers on pin sockets, no SWD port
-
-**YAAJ_Module_STM32_BluePill_PinSockets_V_SWD_Header_cp** :
-
-pin headers on pin sockets, SWD port on top with vertical pin header
+pin headers, programming pins with vertical pin socket 
